@@ -1,0 +1,204 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articles of peace between the Most Serene and Mighty Prince Charles II ... and the States General of the United Netherlands concluded at Westminster the 9/19 day of February, 1673/4.</title>
+            <title>Treaties, etc. United Provinces of the Netherlands, 1674 Feb. 19</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A32175</idno>
+            <idno type="STC">Wing C2905</idno>
+            <idno type="STC">ESTC R35906</idno>
+            <idno type="EEBO-CITATION">15578752</idno>
+            <idno type="OCLC">ocm 15578752</idno>
+            <idno type="VID">103872</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A32175)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103872)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1184:47)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Articles of peace between the Most Serene and Mighty Prince Charles II ... and the States General of the United Netherlands concluded at Westminster the 9/19 day of February, 1673/4.</title>
+                  <title>Treaties, etc. United Provinces of the Netherlands, 1674 Feb. 19</title>
+                  <author>England and Wales.</author>
+                  <author>United Provinces of the Netherlands. Treaties, etc. England and Wales, 1674 Feb. 19.</author>
+               </titleStmt>
+               <extent>[2], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the assigns of John Bill and Christopher Barker,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1673/4.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Published by His Majesties command"</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Foreign relations --  Netherlands.</term>
+               <term>Netherlands --  Foreign relations --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:103872:1" rendition="simple:additions"/>
+            <p>ARTICLES OF PEACE, Between the Moſt Serene and Mighty PRINCE CHARLES II.</p>
+            <p>By the Grace of God, King of <hi>England, Scotland, France,</hi> and <hi>Ireland,</hi> Defender of the Faith, &amp;c.</p>
+            <p>AND The High and Mighty LORDS, THE States General OF THE <hi>UNITED NETHERLANDS;</hi> Concluded at <hi>Weſtminster</hi> the 9/19 day of <hi>February,</hi> 1673/4.</p>
+            <p>
+               <hi>Publiſhed by His Majeſties Command.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by the Aſſigns of <hi>John Bill</hi> and <hi>Christopher Barkor,</hi> Printers to the Kings moſt Excellent Majeſty. 1673/4.</p>
+         </div>
+      </front>
+      <body>
+         <div type="articles">
+            <pb facs="tcp:103872:2"/>
+            <pb n="1" facs="tcp:103872:2"/>
+            <head>ARTICLES OF PEACE, Between the Moſt Serene and Mighty PRINCE CHARLES II.</head>
+            <head type="sub">By the Grace of God, King of <hi>England, Scotland, France,</hi> and <hi>Ireland,</hi> Defender of the Faith, &amp;c. AND The High and Mighty LORDS, THE <hi>States General</hi> of the <hi>United Netherlands.</hi>
+            </head>
+            <div n="1" type="article">
+               <head>I.</head>
+               <p>
+                  <seg rend="decorInit">I</seg>T is Concluded and Agreed, That from this Day there ſhall be a firm and inviolable Peace, Union, and Friend<g ref="char:EOLhyphen"/>ſhip betwixt His Majeſty the King of <hi>Great Britain,</hi> and the High and Mighty Lords the States
+<pb n="2" facs="tcp:103872:3"/>General of the <hi>United Provinces,</hi> and be<g ref="char:EOLhyphen"/>twixt all their Subjects, whether within <hi>Eu<g ref="char:EOLhyphen"/>rope</hi> or without, in all Regions and Places whatſoever.</p>
+            </div>
+            <div n="2" type="article">
+               <head>II.</head>
+               <p>That this good Union betwixt the above-ſaid King and the ſaid States General, may the ſooner take its effect, it is by them Agreed and Concluded, That immediately upon the Publication of this Treaty of Peace, all Acti<g ref="char:EOLhyphen"/>ons of Hoſtility ſhall on both Sides be im<g ref="char:EOLhyphen"/>mediately forbid, and no Commiſſion, In<g ref="char:EOLhyphen"/>ſtruction, or Order, privately or publickly, directly or indirectly, be on either Side given or countenanced, for the Infeſting, Attaquing, Fighting, or Spoiling of each other, their Dominions or Subjects; but on the contrary, all peaceable and amicable Comportments enjoyned to the Subjects of both Nations.</p>
+            </div>
+            <div n="3" type="article">
+               <head>III.</head>
+               <p>But in reſpect the Diſtances of Places are
+<pb n="3" facs="tcp:103872:3"/>ſo different, that the Orders and Commands of the reſpective Sovereigns cannot at the ſame time reach all their Subjects, it hath been thought fit to appoint theſe following Limits for the committing any Acts of Ho<g ref="char:EOLhyphen"/>ſtility or Force upon each other: <hi>viz.</hi> That after the expiration of Twelve days next fol<g ref="char:EOLhyphen"/>lowing the Publication of this Treaty, no Hoſtility ſhall be acted from the <hi>Soundings</hi> to the <hi>Naz</hi> in <hi>Norway;</hi> nor after the term of Six weeks, betwixt the <hi>Soundings</hi> and <hi>Tanger;</hi> nor after the term of Ten weeks, betwixt the ſaid <hi>Tanger</hi> and the <hi>Aequator,</hi> neither in the <hi>Ocean, Mediterranean,</hi> or elſe<g ref="char:EOLhyphen"/>where; nor after the Term of Eight moneths, in any Part of the World: And whatſoever Actions of Hoſtility and Force ſhall be com<g ref="char:EOLhyphen"/>mitted after the expiration of the aforeſaid Terms, upon colour of whatſoever former Commiſsion, Letters of Mart, or the like, ſhall be deemed as Illegal, and the Actors obliged to make Reparation and Satisfacti<g ref="char:EOLhyphen"/>on, and puniſhed as Violators of the Publick Peace.</p>
+            </div>
+            <div n="4" type="article">
+               <pb n="4" facs="tcp:103872:4"/>
+               <head>IV.</head>
+               <p>That the aforeſaid States General of the <hi>United Provinces,</hi> in due acknowledgment on their part of the King of <hi>Great Britain's</hi> Right to have His Flag reſpected in the Seas hereafter mentioned, ſhall and do Declare and Agree, That whatever Ships or Veſſels belonging to the ſaid <hi>United Provinces,</hi> whe<g ref="char:EOLhyphen"/>ther Veſſels of War or others, or whether ſingle or in Fleets, ſhall meet in any of the Seas from <hi>Cape Finiſterre</hi> to the Middle Point of the Land <hi>Van Staten</hi> in <hi>Norway,</hi> with any Ships or Veſſels belonging to His Majeſty of <hi>Great Britain,</hi> whether thoſe Ships be ſingle or in greater number, if they carry His Majeſty of <hi>Great Britain</hi>'s Hag or Jack, the aforeſaid <hi>Dutch</hi> Veſſels or Ships ſhall ſtrike their Flag and lower their Top-ſail in the ſame manner, and with as much Reſpect, as hath at any Time, or in any Place been formerly practiſed towards any Ships of His Majeſty of <hi>Great Britain</hi> or His Predeceſſors, by any Ships of the States General or their Predeceſſors.</p>
+            </div>
+            <div n="5" type="article">
+               <pb n="5" facs="tcp:103872:4"/>
+               <head>V.</head>
+               <p>Whereas the Colony of <hi>Surinam,</hi> and the Articles made upon the Surrender thereof, 1667. betwixt <hi>William Biam,</hi> then Governour thereof for His Majeſty of <hi>Great Britain,</hi> and <hi>Abraham Quirini</hi> Commander for the States General, have in the Execution of them adminiſtred much occaſion of Diſpute, and contributed much to the late miſunderſtand<g ref="char:EOLhyphen"/>ing betwixt His Majeſty and the ſaid States General; to remove all grounds of future Miſtakes, the ſaid States General do by theſe A<g ref="char:EOLhyphen"/>gree and Covenant with the ſaid King of <hi>Great Britain,</hi> That not onely the fore-named Ar<g ref="char:EOLhyphen"/>ticles ſhall be Executed without any manner of tergiverſation or equivocation; but that likewiſe it ſhall be free for His Majeſty to Depute one or more perſons thither, to ſee the Condition of His Subjects there, and to adjuſt with them a time for their depar<g ref="char:EOLhyphen"/>ture; And that it ſhall be lawful for His Majeſty to ſend one, two, or three Ships at one time, and thereon to embarque and car<g ref="char:EOLhyphen"/>ry
+<pb n="6" facs="tcp:103872:5"/>away the ſaid Subjects, their Goods and Slaves; And that the then Governour there for the States General, ſhall not make or execute any Law, whereby the buying or ſelling of Land, paying of Debts, or com<g ref="char:EOLhyphen"/>mutation of Goods, ſhall be otherwiſe qualified to the <hi>Engliſh,</hi> then it hath or ſhall be to all other Inhabitants of the Co<g ref="char:EOLhyphen"/>lony; but that during their ſtay, they ſhall enjoy the ſame Laws and Priviledges of ſuing for Debts, and paying their Debts, making Bargains and Contracts as hath been uſually practiſed amongſt the other Inhabi<g ref="char:EOLhyphen"/>tants; And that whenſoever His Majeſty of <hi>Great Britain</hi> ſhall deſire of the States Ge<g ref="char:EOLhyphen"/>neral ſufficient and authentique Letters to the Governour of the ſaid Colony, to ſuf<g ref="char:EOLhyphen"/>fer the ſaid <hi>Engliſh</hi> to depart, and permit the coming of the ſaid Ships, the ſaid States General ſhall within the ſpace of fifteen days after ſuch demand, deliver unto whom<g ref="char:EOLhyphen"/>ſoever Deputed by His Majeſty of <hi>Great Britain</hi> for that purpoſe, full and ſufficient Letters and Inſtructions to their Governor there, for permitting the arrival of the Ships,
+<pb n="7" facs="tcp:103872:5"/>as well as the embarquing of ſuch of His Majeſties Subjects as ſhall declare them<g ref="char:EOLhyphen"/>ſelves willing to go away, with their Goods and Slaves, to be Tranſported where His Majeſty ſhall direct.</p>
+            </div>
+            <div n="6" type="article">
+               <head>VI.</head>
+               <p>It is Agreed and Concluded, That what<g ref="char:EOLhyphen"/>ever Countrey, Iſland, Town, Haven, Caſtle, or Fortreſs, hath been or ſhall be taken by either Party from the other, ſince the beginning of the late unhappy War, whether in <hi>Europe,</hi> or elſewhere, and be<g ref="char:EOLhyphen"/>fore the expiration of the Times above li<g ref="char:EOLhyphen"/>mited for Hoſtility, ſhall be reſtored to the former Owner in the ſame Condition it ſhall be in at the time of the publiſhing this Peace; after which time there ſhall be no Plundering of the Inhabitants, or demo<g ref="char:EOLhyphen"/>liſhing of the Fortifications, or carrying a<g ref="char:EOLhyphen"/>way the Artillery and Ammunition belong<g ref="char:EOLhyphen"/>ing to any Fort or Caſtle, at the time of its having been taken.</p>
+            </div>
+            <div n="7" type="article">
+               <pb n="8" facs="tcp:103872:6"/>
+               <head>VII.</head>
+               <p>That the Treaty of <hi>Breda</hi> made in the year 1667, as all other former Treaties con<g ref="char:EOLhyphen"/>firmed by the ſaid Treaty, be renewed and remain in their full force and vigour, ſo far forth as they contradict nothing in this preſent Treaty.</p>
+            </div>
+            <div n="8" type="article">
+               <head>VIII.</head>
+               <p>That the Marine Treaty made at the <hi>Hague</hi> between the two Parties in the year 1668, be continued for Nine moneths after the Publication of this preſent Treaty, unleſs it ſhall be otherwiſe agreed on by a ſubſequent Treaty; and that in the mean time the Conſideration of a new one be referred to the ſame Commiſſioners to whom the Trade in the <hi>Eaſt-Indies</hi> is referred in the ſubſequent Article.</p>
+               <p>But if ſuch Commiſſioners, within Three months after their firſt meeting ſhall not agree upon a new Marine Treaty, then that Mat<g ref="char:EOLhyphen"/>ter ſhall be alſo referred to the Arbitration
+<pb n="9" facs="tcp:103872:6"/>of the moſt Serene Queen Regent of <hi>Spain,</hi> in the ſame manner as the Regulation of the <hi>Eaſt-India</hi> Trade is referred to Her Majeſty in the ſaid Article next following.</p>
+            </div>
+            <div n="9" type="article">
+               <head>IX.</head>
+               <p>In reſpect that upon the mutual, free, and undiſturbed enjoyment of Trade and Na<g ref="char:EOLhyphen"/>vigation, not onely the Wealth, but the Peace likewiſe of both Nations is moſt high<g ref="char:EOLhyphen"/>ly concerned; there ought nothing to be ſo much the care of both Parties, as a juſt Re<g ref="char:EOLhyphen"/>gulation of Trade, and particularly in the <hi>East-Indies;</hi> and yet in reſpect that the weightineſs of the matter requireth much time to make firm and durable Articles to the Content and Security of the Subject on both fides; and on the other ſide, the bleed<g ref="char:EOLhyphen"/>ing Condition of moſt part of <hi>Europe,</hi> as well as of the two Parties concerned, ear<g ref="char:EOLhyphen"/>neſtly demand a ſpeedy Concluſion of this Treaty, the King of <hi>Great Britain</hi> is pleaſed to condeſcend to the Deſires of the States General, to have the Conſideration of the
+<pb n="10" facs="tcp:103872:7"/>ſame referred to an equal number of Com<g ref="char:EOLhyphen"/>miſſioners to be nominated by each Party, the ſaid States General engaging themſelves to ſend thoſe of their nomination to Treat at <hi>London</hi> with thoſe to be nominated by His Majeſty; and this within the ſpace of Three moneths after the publication of this Treaty; The number to be nominated by each, to conſiſt of ſix Perſons; And in caſe that after Three moneths from the time of their firſt Aſſembling, they ſhall not have the good ſucceſs to conclude a Treaty, the Points in difference betwixt them ſhall be referred to the Arbitrement of the moſt Se<g ref="char:EOLhyphen"/>rene Queen Regent of <hi>Spain,</hi> who ſhall nominate Eleven Commiſſioners; and what<g ref="char:EOLhyphen"/>ſoever the major part of them ſhall deter<g ref="char:EOLhyphen"/>mine as to the remaining Differences, ſhall oblige both Parties; Provided ſtill, that they deliver their Judgment within the ſpace of Six Moneths from the day of their Aſſembling; which ſhall likewiſe be with<g ref="char:EOLhyphen"/>in the ſpace of Three Moneths after the ſaid moſt Serene Queen Regent of <hi>Spain</hi> hath accepted of the being Umpire.</p>
+            </div>
+            <div n="10" type="article">
+               <pb n="11" facs="tcp:103872:7"/>
+               <head>X.</head>
+               <p>That whereas the moſt Serene Queen Regent of <hi>Spain</hi> hath given Aſſurance to His Majeſty of <hi>Great Britain,</hi> That the ſaid States General ſhould upon the making of the Peace, pay unto His ſaid Majeſty the King of <hi>Great Britain,</hi> the Sum of Eight hundred thouſand Patacoons, The ſaid States Gene<g ref="char:EOLhyphen"/>ral do Promiſe and Covenant to pay the ſaid 800000 Patacoons in this following manner, <hi>viz.</hi> A fourth part aſſoon as the Ratification of this Treaty ſhall be mutu<g ref="char:EOLhyphen"/>ally Exhibited, and the reſt the three en<g ref="char:EOLhyphen"/>ſuing Years by equal Portions.</p>
+            </div>
+            <div n="11" type="article">
+               <head>XI.</head>
+               <p>The aforeſaid moſt Serene King of <hi>Great Britain,</hi> &amp; the ſaid High &amp; Mighty States Gen. of the <hi>United Provinces,</hi> ſhall obſerve ſincere<g ref="char:EOLhyphen"/>ly, and <hi>bona fide,</hi> all and ſingular the Mat<g ref="char:EOLhyphen"/>ters Agreed and Concluded in this preſent Treaty, and cauſe the ſame to be obſer<g ref="char:EOLhyphen"/>ved
+<pb n="12" facs="tcp:103872:8" rendition="simple:additions"/>by their Subjects and Inhabitants; nor ſhall they directly or indirectly violate any of them, or ſuffer them to be violated by their Subjects or Inhabitants: And they ſhall Ratifie and Confirm all and every thing as before Agreed, by Letters Patents Subſcribed with their Hands, and Sealed with their Great Seals, conceived and writ<g ref="char:EOLhyphen"/>ten in ſufficient, valid, and effectual Form; and ſhall deliver, or cauſe the ſame to be delivered reciprocally, within Four Weeks after the Date of theſe Preſents, (or ſooner if it may be) <hi>bona fide,</hi> really, and with Effect.</p>
+            </div>
+            <div n="12" type="article">
+               <head>XII.</head>
+               <p>Laſtly, Aſſoon as the ſaid Ratifications ſhall have been duely and mutually Ex<g ref="char:EOLhyphen"/>hibited and Exchanged, the Peace ſhall be Proclaimed at the <hi>Hague</hi> within Four and twenty hours after the Delivery and Ex<g ref="char:EOLhyphen"/>change there made of the ſaid Ratifications.</p>
+               <closer>
+                  <dateline>Done at <hi>Westminster</hi> 
+                     <date>the 9/19 day of <hi>Fe<g ref="char:EOLhyphen"/>bruary</hi> 1673/4.</date>
+                  </dateline>
+               </closer>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
